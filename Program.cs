@@ -87,10 +87,10 @@ namespace StackUsingSingleLinkList
                     case '2':
                         if (s.empty())
                         {
-                            Console.WriteLine("\nStack Empty");
+                            s.pop();
                             break;
                         }
-                        s.pop();
+                        Console.WriteLine("\nStack empty");
                         break;
                     case '3':
                         s.display();
