@@ -99,7 +99,7 @@ namespace StackUsingSingleLinkList
                         return;
                     default:
                         Console.WriteLine("\nInvalid Choice");
-
+                        break;
                 }
             }
         }
