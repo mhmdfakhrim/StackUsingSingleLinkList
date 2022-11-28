@@ -60,9 +60,6 @@ namespace StackUsingSingleLinkList
                 }
             }
         }
-    }
-   class program
-    {
         static void Main(string[] args)
         {
             Stack s = new Stack();
@@ -103,10 +100,10 @@ namespace StackUsingSingleLinkList
                 }
             }
         }
+
+
     }
-
-       
-    }
+}
 
 
 
@@ -121,4 +118,5 @@ namespace StackUsingSingleLinkList
 
 
 
- 
+
+
